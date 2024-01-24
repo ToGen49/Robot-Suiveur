@@ -7,3 +7,4 @@
   - résistance
   - régulateur de tension
 - Batterie (durée min 24h)
+- Transmition par engrenage
