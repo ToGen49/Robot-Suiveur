@@ -9,3 +9,5 @@
 - Batterie (durée min 24h)
 - Transmition par engrenage
 - Dimension: 40mm/40mm/25mm
+- Monter les éscaliers
+- 
