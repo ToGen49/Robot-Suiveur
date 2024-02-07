@@ -12,3 +12,4 @@
 - Monter les éscaliers
 - Caison à température réglabe
 - Postion dans un plan X, Y, Z
+- Bluetooth
