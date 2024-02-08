@@ -10,6 +10,7 @@
 - Batterie (durée min 24h)
 - Transmition par engrenage
 - Dimension: 40mm/40mm/25mm
+- Charge: 10kg
 - Monter les éscaliers
 - Caison à température réglabe
 - Postion dans un plan X, Y, Z
