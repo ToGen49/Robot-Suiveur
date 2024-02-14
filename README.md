@@ -17,4 +17,4 @@
 - Bluetooth
 - 4 Roues
 - System de transmition de force 4 roues motrices
-- Capteur infrarouge (éviter la colision)
+- Capteur à ultrason (éviter la colision)
