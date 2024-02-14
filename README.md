@@ -4,7 +4,7 @@
 - 3 servomoteur (2 stabilité, 1 direction)
 - 1 gyroscope (planéité)
 - carte mère
-  - microcontroller
+  - microcontroller (pic)
   - résistance
   - régulateur de tension
 - Batterie (durée min 24h)
@@ -17,3 +17,4 @@
 - Bluetooth
 - 4 Roues
 - System de transmition de force 4 roues motrices
+- Capteur infrarouge (éviter la colision)
